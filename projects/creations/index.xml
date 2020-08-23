@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Samuel Wong</title>
-    <link>https://example.com/projects/creations/</link>
+    <link>https://chunyip135.github.io/home/projects/creations/</link>
     <description>Recent content in Projects on Samuel Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chunyip135.github.io/home/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <link>https://chunyip135.github.io/home/projects/creations/bosh-agents/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <guid>https://chunyip135.github.io/home/projects/creations/bosh-agents/</guid>
       <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
     </item>
     
     <item>
       <title>Project 1 : Image Classification</title>
-      <link>https://example.com/projects/creations/cnn-notebook_commited/</link>
+      <link>https://chunyip135.github.io/home/projects/creations/cnn-notebook_commited/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/cnn-notebook_commited/</guid>
+      <guid>https://chunyip135.github.io/home/projects/creations/cnn-notebook_commited/</guid>
       <description>Descriptions This is a project that uses Convolutional Neural Nets to classified images between classes of forest, glacier, sea, street and buildings. The libraries that are used are such as tensorflow, keras, matplotlib and numpy. The datasets is open-source and can be found on Kaggle.
  visualize images visualize covnets model deploy to web  import tensorflow as tf from tensorflow import keras import cv2 import os from tensorflow.keras.preprocessing.image import ImageDataGenerator import matplotlib.</description>
     </item>
     
     <item>
       <title>Atlassian Marketplace Plugins</title>
-      <link>https://example.com/projects/creations/marketplace/</link>
+      <link>https://chunyip135.github.io/home/projects/creations/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <guid>https://chunyip135.github.io/home/projects/creations/marketplace/</guid>
       <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
     </item>
     
     <item>
       <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <link>https://chunyip135.github.io/home/projects/creations/docker-marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
+      <guid>https://chunyip135.github.io/home/projects/creations/docker-marketplace/</guid>
       <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     

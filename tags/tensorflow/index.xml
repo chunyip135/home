@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tensorflow on Samuel Wong</title>
-    <link>https://example.com/tags/tensorflow/</link>
+    <link>https://chunyip135.github.io/home/tags/tensorflow/</link>
     <description>Recent content in tensorflow on Samuel Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chunyip135.github.io/home/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1 : Image Classification</title>
-      <link>https://example.com/projects/creations/cnn-notebook_commited/</link>
+      <link>https://chunyip135.github.io/home/projects/creations/cnn-notebook_commited/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/cnn-notebook_commited/</guid>
+      <guid>https://chunyip135.github.io/home/projects/creations/cnn-notebook_commited/</guid>
       <description>Descriptions This is a project that uses Convolutional Neural Nets to classified images between classes of forest, glacier, sea, street and buildings. The libraries that are used are such as tensorflow, keras, matplotlib and numpy. The datasets is open-source and can be found on Kaggle.
  visualize images visualize covnets model deploy to web  import tensorflow as tf from tensorflow import keras import cv2 import os from tensorflow.keras.preprocessing.image import ImageDataGenerator import matplotlib.</description>
     </item>
