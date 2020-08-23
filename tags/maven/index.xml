@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maven on Samuel Wong</title>
-    <link>https://chunyip135.github.io/home/tags/maven/</link>
+    <link>https://example.com/tags/maven/</link>
     <description>Recent content in Maven on Samuel Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://chunyip135.github.io/home/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/maven/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://chunyip135.github.io/home/projects/creations/docker-marketplace/</link>
+      <link>https://example.com/projects/creations/docker-marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chunyip135.github.io/home/projects/creations/docker-marketplace/</guid>
+      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
       <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     
