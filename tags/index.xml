@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Samuel Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chunyip135.github.io/home/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://chunyip135.github.io/home/tags/data-science/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chunyip135.github.io/home/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <link>https://chunyip135.github.io/home/tags/roadmap/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chunyip135.github.io/home/tags/roadmap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Docker</title>
@@ -147,42 +165,6 @@
     </item>
     
     <item>
-      <title>agile</title>
-      <link>https://chunyip135.github.io/home/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chunyip135.github.io/home/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://chunyip135.github.io/home/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chunyip135.github.io/home/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://chunyip135.github.io/home/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chunyip135.github.io/home/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://chunyip135.github.io/home/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chunyip135.github.io/home/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>apache</title>
       <link>https://chunyip135.github.io/home/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
@@ -260,15 +242,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chunyip135.github.io/home/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://chunyip135.github.io/home/tags/ci/cd-pipelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chunyip135.github.io/home/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     

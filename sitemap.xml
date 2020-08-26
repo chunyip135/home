@@ -26,8 +26,8 @@
   </url>
   
   <url>
-    <loc>https://chunyip135.github.io/home/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://chunyip135.github.io/home/publications/my_ds_pathway/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -41,6 +41,21 @@
     <loc>https://chunyip135.github.io/home/projects/contributions/schema-org/</loc>
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/home/tags/data-science/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/home/tags/roadmap/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chunyip135.github.io/home/tags/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -71,11 +86,6 @@
   
   <url>
     <loc>https://chunyip135.github.io/home/tags/rest-apis/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chunyip135.github.io/home/tags/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url>
   
@@ -146,26 +156,6 @@
   </url>
   
   <url>
-    <loc>https://chunyip135.github.io/home/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chunyip135.github.io/home/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chunyip135.github.io/home/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chunyip135.github.io/home/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chunyip135.github.io/home/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
@@ -218,10 +208,6 @@
   
   <url>
     <loc>https://chunyip135.github.io/home/tags/bitbucket/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chunyip135.github.io/home/tags/ci/cd-pipelines/</loc>
   </url>
   
   <url>
